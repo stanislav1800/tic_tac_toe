@@ -99,5 +99,3 @@ while True:
         move += 1
         continue
     move += 1
-
-print('End')
